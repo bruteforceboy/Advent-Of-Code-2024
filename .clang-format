@@ -1,0 +1,17 @@
+BasedOnStyle: Google
+ColumnLimit: 80
+SpacesInContainerLiterals: true
+AccessModifierOffset: -4
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+AllowShortBlocksOnASingleLine: false
+AlwaysBreakTemplateDeclarations: true
+SpaceBeforeParens: ControlStatements
+DerivePointerAlignment: false
+PointerAlignment: Right
+TabWidth: 4
+IndentWidth: 4
+UseTab: Never
+RemoveBracesLLVM: true
+SpaceAfterCStyleCast: true
+SpaceBeforeCpp11BracedList: false
